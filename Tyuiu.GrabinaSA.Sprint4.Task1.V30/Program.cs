@@ -11,38 +11,33 @@ namespace Tyuiu.GrabinaSA.Sprint4.Task1.V30
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
             Console.WriteLine("***************************************************************************");
 
+            
+
             int len;
-            Console.WriteLine("Введите количество элементов массива: ");
+            Console.Write("Введите количество элементов массива: ");
             len = Convert.ToInt32(Console.ReadLine());
 
-            int[] array = new int[len];
-
+            int[] numsArray = new int[len];
 
             for (int i = 0; i <= len - 1; i++)
             {
-                Console.Write("Введите значение " + i + " элемента массива: ");
-                array[i] = Convert.ToInt32(Console.ReadLine());
+                Console.Write("Введите значение " + i + "элемента массива: ");
+                numsArray[i] = Convert.ToInt32(Console.ReadLine());
             }
-
-
             Console.WriteLine();
             Console.WriteLine("Массив: ");
-
             for (int i = 0; i <= len - 1; i++)
             {
-                Console.Write(array[i] + "\t");
+                Console.Write(numsArray[i] + "\t");
             }
             Console.WriteLine();
 
             Console.WriteLine("***************************************************************************");
-            Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
+            Console.WriteLine("* Результат:                                                              *");
             Console.WriteLine("***************************************************************************");
+            Console.WriteLine("Cумма четных чисел: " + ds.Calculate(numsArray));
 
-            int res = ds.Calculate(array);
-            Console.WriteLine("Произведение нечётных элементов массива = " + res);
-
-            Console.WriteLine();
-            Console.ReadKey();
+            Console.ReadLine();
         }
     }
 }
