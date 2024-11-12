@@ -5,35 +5,43 @@ VisualStudioVersion = 17.11.35303.130
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task0", "Task0", "{7BFE5813-049E-4191-A657-4935F2B56C4C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GrabinaSA.Sprint4.Task0.V5", "Tyuiu.GrabinaSA.Sprint4.Task0.V5\Tyuiu.GrabinaSA.Sprint4.Task0.V5.csproj", "{FC755E83-E3EA-4966-BC96-FCCA0E3B4990}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.GrabinaSA.Sprint4.Task0.V5", "Tyuiu.GrabinaSA.Sprint4.Task0.V5\Tyuiu.GrabinaSA.Sprint4.Task0.V5.csproj", "{FC755E83-E3EA-4966-BC96-FCCA0E3B4990}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GrabinaSA.Sprint4.Task0.V5.Lib", "Tyuiu.GrabinaSA.Sprint4.Task0.V5.Lib\Tyuiu.GrabinaSA.Sprint4.Task0.V5.Lib.csproj", "{4B5DD87A-F717-4367-BB81-2B2F18EE2AA8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.GrabinaSA.Sprint4.Task0.V5.Lib", "Tyuiu.GrabinaSA.Sprint4.Task0.V5.Lib\Tyuiu.GrabinaSA.Sprint4.Task0.V5.Lib.csproj", "{4B5DD87A-F717-4367-BB81-2B2F18EE2AA8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GrabinaSA.Sprint4.Task0.V5.Test", "Tyuiu.GrabinaSA.Sprint4.Task0.V5.Test\Tyuiu.GrabinaSA.Sprint4.Task0.V5.Test.csproj", "{627E6D7F-A3AB-4487-AB63-0DBA9B84B0B4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.GrabinaSA.Sprint4.Task0.V5.Test", "Tyuiu.GrabinaSA.Sprint4.Task0.V5.Test\Tyuiu.GrabinaSA.Sprint4.Task0.V5.Test.csproj", "{627E6D7F-A3AB-4487-AB63-0DBA9B84B0B4}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1", "Task1", "{B719FF7D-48A4-494B-94FF-8F00C4AAF141}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GrabinaSA.Sprint4.Task1.V30", "Tyuiu.GrabinaSA.Sprint4.Task1.V30\Tyuiu.GrabinaSA.Sprint4.Task1.V30.csproj", "{A622E89A-C9AD-4668-9BAA-1EDF3F60CEEE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.GrabinaSA.Sprint4.Task1.V30", "Tyuiu.GrabinaSA.Sprint4.Task1.V30\Tyuiu.GrabinaSA.Sprint4.Task1.V30.csproj", "{A622E89A-C9AD-4668-9BAA-1EDF3F60CEEE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GrabinaSA.Sprint4.Task1.V30.Lib", "Tyuiu.GrabinaSA.Sprint4.Task1.V30.Lib\Tyuiu.GrabinaSA.Sprint4.Task1.V30.Lib.csproj", "{241142CA-0F4C-4437-8A78-19C20A66801D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.GrabinaSA.Sprint4.Task1.V30.Lib", "Tyuiu.GrabinaSA.Sprint4.Task1.V30.Lib\Tyuiu.GrabinaSA.Sprint4.Task1.V30.Lib.csproj", "{241142CA-0F4C-4437-8A78-19C20A66801D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GrabinaSA.Sprint4.Task1.V30.Test", "Tyuiu.GrabinaSA.Sprint4.Task1.V30.Test\Tyuiu.GrabinaSA.Sprint4.Task1.V30.Test.csproj", "{E818DB73-D250-4975-A516-F92E1C7C0669}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.GrabinaSA.Sprint4.Task1.V30.Test", "Tyuiu.GrabinaSA.Sprint4.Task1.V30.Test\Tyuiu.GrabinaSA.Sprint4.Task1.V30.Test.csproj", "{E818DB73-D250-4975-A516-F92E1C7C0669}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task2", "Task2", "{2124A809-A2F4-4CE9-BC5B-C20E689C0A0F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GrabinaSA.Sprint4.Task2.V3", "Tyuiu.GrabinaSA.Sprint4.Task2.V3\Tyuiu.GrabinaSA.Sprint4.Task2.V3.csproj", "{4A75D2CF-26E9-4A78-8C10-6B1F99CF63D9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.GrabinaSA.Sprint4.Task2.V3", "Tyuiu.GrabinaSA.Sprint4.Task2.V3\Tyuiu.GrabinaSA.Sprint4.Task2.V3.csproj", "{4A75D2CF-26E9-4A78-8C10-6B1F99CF63D9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GrabinaSA.Sprint4.Task2.V3.Lib", "Tyuiu.GrabinaSA.Sprint4.Task2.V3.Lib\Tyuiu.GrabinaSA.Sprint4.Task2.V3.Lib.csproj", "{518C3EFB-7217-49DE-BA97-D2BE45C7560E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.GrabinaSA.Sprint4.Task2.V3.Lib", "Tyuiu.GrabinaSA.Sprint4.Task2.V3.Lib\Tyuiu.GrabinaSA.Sprint4.Task2.V3.Lib.csproj", "{518C3EFB-7217-49DE-BA97-D2BE45C7560E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GrabinaSA.Sprint4.Task2.V3.Test", "Tyuiu.GrabinaSA.Sprint4.Task2.V3.Test\Tyuiu.GrabinaSA.Sprint4.Task2.V3.Test.csproj", "{8A8EA8B5-75FA-4637-96E3-7533C14E4E0D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.GrabinaSA.Sprint4.Task2.V3.Test", "Tyuiu.GrabinaSA.Sprint4.Task2.V3.Test\Tyuiu.GrabinaSA.Sprint4.Task2.V3.Test.csproj", "{8A8EA8B5-75FA-4637-96E3-7533C14E4E0D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task3", "Task3", "{E2A6750C-408A-460C-B8DF-4591FF402A0C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GrabinaSA.Sprint4.Task3.V27", "Tyuiu.GrabinaSA.Sprint4.Task3.V27\Tyuiu.GrabinaSA.Sprint4.Task3.V27.csproj", "{4CE91E72-CCB6-4768-9331-1FA37244EB0B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.GrabinaSA.Sprint4.Task3.V27", "Tyuiu.GrabinaSA.Sprint4.Task3.V27\Tyuiu.GrabinaSA.Sprint4.Task3.V27.csproj", "{4CE91E72-CCB6-4768-9331-1FA37244EB0B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GrabinaSA.Sprint4.Task3.V27.Lib", "Tyuiu.GrabinaSA.Sprint4.Task3.V27.Lib\Tyuiu.GrabinaSA.Sprint4.Task3.V27.Lib.csproj", "{51A131BC-4C45-4549-B00D-0FF2453125A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.GrabinaSA.Sprint4.Task3.V27.Lib", "Tyuiu.GrabinaSA.Sprint4.Task3.V27.Lib\Tyuiu.GrabinaSA.Sprint4.Task3.V27.Lib.csproj", "{51A131BC-4C45-4549-B00D-0FF2453125A1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GrabinaSA.Sprint4.Task3.V27.Test", "Tyuiu.GrabinaSA.Sprint4.Task3.V27.Test\Tyuiu.GrabinaSA.Sprint4.Task3.V27.Test.csproj", "{4E632E72-E9AC-4978-94EA-37BA0CCF7C07}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.GrabinaSA.Sprint4.Task3.V27.Test", "Tyuiu.GrabinaSA.Sprint4.Task3.V27.Test\Tyuiu.GrabinaSA.Sprint4.Task3.V27.Test.csproj", "{4E632E72-E9AC-4978-94EA-37BA0CCF7C07}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task4", "Task4", "{914C5F30-8E0F-4B26-B725-DAEF6DFE318E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GrabinaSA.Sprint4.Task4.V8", "Tyuiu.GrabinaSA.Sprint4.Task4.V8\Tyuiu.GrabinaSA.Sprint4.Task4.V8.csproj", "{B0B53CBE-CB07-4E48-9690-E5FD2C688A3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GrabinaSA.Sprint4.Task4.V8.Lib", "Tyuiu.GrabinaSA.Sprint4.Task4.V8.Lib\Tyuiu.GrabinaSA.Sprint4.Task4.V8.Lib.csproj", "{D345340E-A395-4CE5-9C54-6FDC6BEFC292}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GrabinaSA.Sprint4.Task4.V8.Test", "Tyuiu.GrabinaSA.Sprint4.Task4.V8.Test\Tyuiu.GrabinaSA.Sprint4.Task4.V8.Test.csproj", "{7F6E58D7-DABA-4030-B440-2D32D1AA4FFE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -89,6 +97,18 @@ Global
 		{4E632E72-E9AC-4978-94EA-37BA0CCF7C07}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4E632E72-E9AC-4978-94EA-37BA0CCF7C07}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4E632E72-E9AC-4978-94EA-37BA0CCF7C07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0B53CBE-CB07-4E48-9690-E5FD2C688A3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0B53CBE-CB07-4E48-9690-E5FD2C688A3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0B53CBE-CB07-4E48-9690-E5FD2C688A3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0B53CBE-CB07-4E48-9690-E5FD2C688A3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D345340E-A395-4CE5-9C54-6FDC6BEFC292}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D345340E-A395-4CE5-9C54-6FDC6BEFC292}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D345340E-A395-4CE5-9C54-6FDC6BEFC292}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D345340E-A395-4CE5-9C54-6FDC6BEFC292}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F6E58D7-DABA-4030-B440-2D32D1AA4FFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F6E58D7-DABA-4030-B440-2D32D1AA4FFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F6E58D7-DABA-4030-B440-2D32D1AA4FFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F6E58D7-DABA-4030-B440-2D32D1AA4FFE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -106,6 +126,9 @@ Global
 		{4CE91E72-CCB6-4768-9331-1FA37244EB0B} = {E2A6750C-408A-460C-B8DF-4591FF402A0C}
 		{51A131BC-4C45-4549-B00D-0FF2453125A1} = {E2A6750C-408A-460C-B8DF-4591FF402A0C}
 		{4E632E72-E9AC-4978-94EA-37BA0CCF7C07} = {E2A6750C-408A-460C-B8DF-4591FF402A0C}
+		{B0B53CBE-CB07-4E48-9690-E5FD2C688A3F} = {914C5F30-8E0F-4B26-B725-DAEF6DFE318E}
+		{D345340E-A395-4CE5-9C54-6FDC6BEFC292} = {914C5F30-8E0F-4B26-B725-DAEF6DFE318E}
+		{7F6E58D7-DABA-4030-B440-2D32D1AA4FFE} = {914C5F30-8E0F-4B26-B725-DAEF6DFE318E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6352063B-0B07-4BEA-8261-1B9AE58BC515}
